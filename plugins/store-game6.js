@@ -33,7 +33,7 @@ const listMessage = {
   footer: botdate,
   mentions: await conn.parseMention(info),
   title: wm,
-  buttonText: "Store",
+  buttonText: "Click Here!",
   sections
 }
 await conn.sendMessage(m.chat, listMessage, { quoted: m, mentions: await conn.parseMention(info), contextInfo:{ forwardingScore: 99999, isForwarded: true }})
