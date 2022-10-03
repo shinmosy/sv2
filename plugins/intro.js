@@ -3,16 +3,14 @@
 let krtu = `Kartu Intro`
 m.reply(`
 0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
-*「 SELAMAT DATANG 」*
-*👑KABUL STORE || READY👑*
-Jangan Lupa Baca Deskripsi Group
-Sebelum Bertindak 
+ *「 SELAMAT DATANG 」*
+*👑KABUL STORE || READY👑* 
+ Jangan Lupa Baca Deskripsi Group
+ Sebelum Bertindak 
 
 Untuk Melihat Semua Pricelist/pembayaran
 Ketik /list Semoga Betah Store Kami🙏
-═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙ 
-
-   
+╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙
 `.trim()) // Tambah sendiri kalo mau
 }
 handler.command = /^(intro)$/i
@@ -24,10 +22,10 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
 let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 
 let krtu = `0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
-*「 SELAMAT DATANG 」*
+ *「 SELAMAT DATANG 」*
 *👑KABUL STORE || READY👑* 
-Jangan Lupa Baca Deskripsi Group
-Sebelum Bertindak 
+ Jangan Lupa Baca Deskripsi Group
+ Sebelum Bertindak 
 
 Untuk Melihat Semua Pricelist/pembayaran
 Ketik /list Semoga Betah Store Kami🙏
@@ -35,8 +33,8 @@ Ketik /list Semoga Betah Store Kami🙏
 `
 let wibu = `https://api-reysekha.herokuapp.com/api/random/cosplay?apikey=apirey` 
 let thumb = await(await fetch(wibu)).buffer()
-conn.sendButtonDoc(m.chat, krtu, wm,'MENU','.menu', 'STORE','.list', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/_ctzhid",
+conn.sendButtonDoc(m.chat, krtu, wm,'MENU','.menu','LIST','.list', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
+    mediaUrl: "https://Instagram.com/kabull_store",
     mediaType: "VIDEO",
     description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
     title: 'WH-MODS-DEV-V1 MultiDevice',
@@ -49,4 +47,3 @@ conn.sendButtonDoc(m.chat, krtu, wm,'MENU','.menu', 'STORE','.list', m, { contex
 handler.command = /^(intro)$/i
 
 export default handler
-
