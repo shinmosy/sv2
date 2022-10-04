@@ -1,7 +1,7 @@
 /*let handler = async m => {
 let krtu = `Kartu Intro`
 m.reply(`
-   *「 SELAMAT DATANG 」*
+    *「 SELAMAT DATANG 」*
 *👑KABUL STORE || READY👑* 
  Jangan Lupa Baca Deskripsi Group
  Sebelum Bertindak 
