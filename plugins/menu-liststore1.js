@@ -101,8 +101,8 @@ conn.reply(global.nomorown + '@s.whatsapp.net', m.quoted ? teks + m.quoted.text 
    m.reply('☑️ Pesan Telah terkirim ke Owner!\n_*Menunggu confirmasi Dari Owner...*_')
 }
 
-handler.help = ['premium']
-handler.tags = ['kabul' ]
+handler.help = ['premium', 'bokepmenu']
+handler.tags = ['premium' ]
 handler.command = /^(bokepmenu|menubokep)$/i
 
 export default handler
