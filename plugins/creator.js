@@ -45,7 +45,7 @@ const sections = [
 	{title: "⸙ • Nomor Owner V2", rowId: ".whmods1"},
 	{title: "⸙ • Pengembang", rowId: ".whmods2"},
 	{title: "⸙ • Creator", rowId: ".whmods3"},
-	{title: "⸙ • Biodata", rowId: ".owner bio"},
+	{title: "⸙ • Biodata Kabul", rowId: ".owner bio"},
 	{title: "⸙ • Script", rowId: ".sc"},
 	]
     },{
