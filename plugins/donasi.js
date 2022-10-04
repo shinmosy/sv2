@@ -15,7 +15,7 @@ let str = `${global.wm}
 │ • *Ovo:* [${global.povo}]
 │ • *Link Aja:* [${global.plinkaja}]
 ❏────`
-let wibu = `https://i.ibb.co/C2g7wNL/IMG-20220907-005342-845.jpg` 
+let wibu = `https://i.ibb.co/n8YcnVX/IMG-20221004-WA0012.jpg` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Sewa Bot','.sewa', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "https://Instagram.com/kabulsaputra21",
