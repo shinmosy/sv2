@@ -5,7 +5,7 @@ handler.help = ['bkp']
 handler.tags = ['premium']
 
 handler.command = /^(bkp)$/i
-handler.premium = true
+
 handler.register = true
 handler.limit = false
 export default handler
