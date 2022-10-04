@@ -7,7 +7,7 @@ if (!args[0]) throw `Use example ${usedPrefix}${command} https://www.tiktok.com/
         .catch(async _ => await tiktokdlv3(args[0]))
     const url = video.no_watermark || video.no_watermark2 || video.no_watermark_raw
     if (!url) throw 'Can\'t download video!'
-    conn.sendFile(m.chat, url, 'tiktok.mp4', 'tiktok.mp3',
+    conn.sendFile(m.chat, url, 'tiktok.mp4',
 `
 ⟐⟞⟚⟝⟮ *Usᴇʀɴᴀᴍᴇ:* ⟯⟞⟚⟝⟐
 ┇⟣⟪ ${nickname} ⟫⟢
