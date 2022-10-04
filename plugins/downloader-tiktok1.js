@@ -17,12 +17,12 @@ if (!args[0]) throw `Use example ${usedPrefix}${command} https://www.tiktok.com/
 ▥ ━┉┄┄┈┈ ▢
 ${description}
 ◈ ━┉┈┄┈┈ ►
-┇©AL BOT WHATSAPP〠
+┇©AL BOT Whatsapp〠
 ◈ ━┉┈┄┈┈ ►
 `.trim(), m)
 }
-handler.help = ['tiktok', 't'].map(v => v + ' <url>')
+handler.help = ['tiktok2', 't'].map(v => v + ' <url>')
 handler.tags = ['downloader']
-handler.command = /^(tiktok|k|t)$/i
+handler.command = /^(tiktok2|k|t)$/i
 
 export default handler
