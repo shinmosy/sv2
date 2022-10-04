@@ -1,7 +1,7 @@
 /*let handler = async m => {
 let krtu = `Kartu Intro`
 m.reply(`
-       *「 SELAMAT DATANG 」*
+   *「 SELAMAT DATANG 」*
 *👑KABUL STORE || READY👑* 
  Jangan Lupa Baca Deskripsi Group
  Sebelum Bertindak 
@@ -16,7 +16,7 @@ import fetch from 'node-fetch'
 let handler = async(m, { conn, text, usedPrefix, command }) => {
 let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 let krtu = `
-       *「 SELAMAT DATANG 」*
+   *「 SELAMAT DATANG 」*
 *👑KABUL STORE || READY👑* 
  Jangan Lupa Baca Deskripsi Group
  Sebelum Bertindak 
