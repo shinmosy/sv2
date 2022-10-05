@@ -1,7 +1,7 @@
 import fs from 'fs'
 import fetch from 'node-fetch'
 let handler  = async (m, { conn, usedPrefix: _p }) => {
-    let info = fs.readFileSync('./mp4/5.mp4')
+    let info = fs.readFileSync('./mp4/tes9.mp4')
 
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 
