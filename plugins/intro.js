@@ -1,7 +1,7 @@
 /*let handler = async m => {
 let krtu = `Kartu Intro`
 m.reply(`
-    *「 SELAMAT DATANG 」*
+     *「 SELAMAT DATANG 」*
 *👑KABUL STORE || READY👑* 
  Jangan Lupa Baca Deskripsi Group
  Sebelum Bertindak 
@@ -16,7 +16,7 @@ import fetch from 'node-fetch'
 let handler = async(m, { conn, text, usedPrefix, command }) => {
 let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 let krtu = `
-   *「 SELAMAT DATANG 」*
+    *「 SELAMAT DATANG 」*
 *👑KABUL STORE || READY👑* 
  Jangan Lupa Baca Deskripsi Group
  Sebelum Bertindak 
@@ -26,7 +26,7 @@ Ketik /list Semoga Betah Store Kami🙏
 `
 let wibu = `https://api-reysekha.herokuapp.com/api/random/cosplay?apikey=apirey` 
 let thumb = await(await fetch(wibu)).buffer()
-conn.sendButtonDoc(m.chat, krtu, wm,'m, { contextInfo: { externalAdReply: { showAdAttribution: true,
+conn.sendButtonDoc(m.chat, krtu, wm,'🛒STORE','.store', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "https://Instagram.com/kabull_store",
     mediaType: "VIDEO",
     description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
