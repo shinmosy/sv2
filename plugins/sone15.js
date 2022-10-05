@@ -1,7 +1,7 @@
 import fs from 'fs'
 import fetch from 'node-fetch'
 let handler  = async (m, { conn, usedPrefix: _p }) => {
-    let info = fs.readFileSync('./mp4/2.mp4')'Nih', m)
+    let info = fs.readFileSync('./mp4/tes15.mp4')
 
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 
@@ -14,6 +14,6 @@ conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply
     thumbnail: thumb,
     sourceUrl: sig  }}})
 }
-handler.command = ['bokep2']
-handler.help = ['bokep2']
+handler.command = ['bokep15']
+handler.help = ['bokep15']
 export default handler
