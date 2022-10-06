@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282124046059', 'KABUL STORE || READY', true],
+  ['6281386943282', 'KABUL STORE || READY', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 KABUL STORE || READY 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘KABUL STORE || READY ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ KABUL STORE || READY '
+global.wm = '                「 AL BOT Whatsapp 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘KABUL˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ AL BOT Whatsapp '
 global.botdate = `⌚: ${wktuwib}\n📆: ${week} ${date}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By KABUL STORE || READY`
+global.titlebot = `⫹⫺ WhatsApp Bot | By AL BOT Whatsapp`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 KABUL STORE || READY  あ」'
+global.author = '                「 AL BOT Whatsapp  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
