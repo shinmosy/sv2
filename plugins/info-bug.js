@@ -247,7 +247,7 @@ let handler  = async (m, { conn, args, text, command, usedPrefix: _p, participan
 }
 
 handler.help = ['sendbug <nomer>']
-handler.tags = ['owner']
+handler.tags = ['info']
 handler.command = /^((send)?(bug?|virtex|virus))$/i
 
 handler.owner = true
