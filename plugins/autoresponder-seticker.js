@@ -13,7 +13,7 @@ let stiker = await sticker(null, global.API(`${pickRandom(stikerhuuu)}`), global
     mediaUrl: sgc,
     mediaType: 2,
     description: '𝑨𝒍𝒅𝒊 𝑿 𝑨𝒊𝒔𝒚𝒂𝒉', 
-    title: 'Hai, ' + name + ' ' + ucapan,
+    title: 👋'Hai, ' + name + ' ' + ucapan,
     body: botdate,
     thumbnail: await(await fetch(pp)).buffer(),
     sourceUrl: sgc
@@ -23,7 +23,7 @@ let stiker = await sticker(null, global.API(`${pickRandom(stikerhuuu)}`), global
    
 }
 
-handler.customPrefix = /^(hu|huu|huuu|huuuu|huuuuu|ok|oke|ook|okee|okk|nice|nis)$/i
+handler.customPrefix = /^(hu|huu|huuu|huuuu|huuuuu|ok|oke|ook|okee|okk|nice|nis|anjing|lol|kamu|love you|loveyou|syg|sayang|apa|tes)$/i
 handler.command = new RegExp
 
 export default handler
