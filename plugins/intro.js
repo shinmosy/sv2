@@ -38,10 +38,10 @@ let krtu = `0ཻུ۪۪ꦽꦼ̷⸙‹•═════════════�
 let wibu = `https://api-reysekha.herokuapp.com/api/random/cosplay?apikey=apirey` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, krtu, wm,'🫂SELAMAT DATANG','.menu', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/_ctzhid",
+    mediaUrl: "https://Instagram.com/kabulsaputra21",
     mediaType: "VIDEO",
     description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
-    title: 'SELAMAT DATANG',
+    title: '🫂SELAMAT DATANG',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
