@@ -67,9 +67,9 @@ global.ppulsa2 = '085212649276' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285715382503'
+global.nomorbot = '6282124046059'
 global.nomorown = '6281386943282'
-global.namebot = 'AL BOT WHATSAPP'
+global.namebot = 'ALBOTWhatsapp'
 global.nameown = 'KABUL STORE || READY'
 
 /*============== Github Thanks To ==============*/
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 AL BOT Whatsapp 」' //Main Watermark
+global.wm = '                「 ALBOTWhatsapp 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘KABUL˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ AL BOT Whatsapp '
 global.botdate = `⌚: ${wktuwib}\n📆: ${week} ${date}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By AL BOT Whatsapp`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 AL BOT Whatsapp  あ」'
+global.author = '                「 ALBOTWhatsapp  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
