@@ -4450,10 +4450,10 @@ let handler = async(m, { conn, usedPrefix, text }) => {
 ️
 ️️
 ️
-️
+️ 
 ️` + wm )
 }
 
 handler.command = /^(antivirtex|novirtex|no|No)$/i
+export default handler
 
-export default handle
