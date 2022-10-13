@@ -70,7 +70,7 @@ global.psaweria = 'https://saweria.com/'
 global.nomorbot = '6282155207160'
 global.nomorown = '628981574999'
 global.namebot = '𝑩𝒐𝒕𝑺𝒉𝒊𝒏 𝒗4'
-global.nameown = MOS'
+global.nameown = 'MOS'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
