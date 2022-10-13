@@ -374,10 +374,10 @@ let tek = `✧────···[ Dashboard ]···────✧
 ╰━━━━━━━━━━━━━━━━┈─◂`
 const listMessage = {
   text: tek,
-  footer: `© *By AL BOT Whatsapp*\n\nᴍᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ ${nameown}\n\n${botdate}\n\n${wm2}`,
+  footer: `\n\nᴍᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ ${nameown}\n\n${botdate}\n\n${wm2}`,
   mentions: await conn.parseMention(tek),
   title: ``,
-  buttonText: `CLICK HERE ⎙`, 
+  buttonText: `MAIN MENU `, 
   sections
 }
   if (teks == '404') {
