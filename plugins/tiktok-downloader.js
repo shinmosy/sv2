@@ -22,8 +22,8 @@ if (!args[0]) throw `Use example ${usedPrefix}${command} https://www.tiktok.com/
                  ███▄▄▄▄▄███████
 ────────── ⇆ㅤ◁ㅤ ❚❚ㅤ ▷ㅤ↻ ──────────
 *Nickname:* ${nickname}
-*Description:* ${description}
-_©ALBOTWhatsapp🍭_
+*Description:* ${description} \n
+*BotShin v4*
 `.trim(), m)
 //}
 /* catch {
