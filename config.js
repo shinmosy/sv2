@@ -59,7 +59,7 @@ global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2
 
 /*============== PAYMENT ==============*/
 global.pdana = '0' //dana
-global.povo = '081386943282' //ovo
+global.povo = '0' //ovo
 global.pgopay = '0' //gopay
 global.plinkaja = '0' //link aja
 global.ppulsa = '0' //telkomsel
@@ -68,7 +68,7 @@ global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6282155207160'
-global.nomorown = '628981574999'
+global.nomorown = '6285157883553'
 global.namebot = '𝑩𝒐𝒕𝑺𝒉𝒊𝒏 𝒗4'
 global.nameown = 'MOS'
 
