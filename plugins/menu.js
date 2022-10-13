@@ -330,10 +330,10 @@ let tek = `✧────···[ Dashboard ]···────✧
 ╭━━━━━━━━━━━━━━━━┈─✧
 ┴
 ┬
-│${emot} 「 Hai Kak👋 」
-├❖ 「 ${conn.getName(m.sender)} 」
+│${emot} 「 Hai Kak$ {conn.getName(m.sender)} 👋 」
+├❖ 「 ◉⁠‿⁠◉ 」
 ├❖  Bagaimana Harimu? 😄
-├❖  Terima Kasih Telah Menggunakan Bot Kami
+├❖  Terima Kasih Telah Menggunakan *BotShin*
 │
 ├━━━━━━━━━━━━━━━━┈─⋆
 │  「 *U s e r  I n f o 克* 」
@@ -360,7 +360,7 @@ let tek = `✧────···[ Dashboard ]···────✧
 │
 ├━━━━━━━━━━━━━━━━┈─⋆
 │
-│ ▸ *Sumber :* YouTube WH-MODS-DEV
+│ 
 │ ▸ *ᴀᴜᴛʜᴏʀ :* ${nameown}
 ┴ ▸ *ᴏᴡɴᴇʀ :* ${nameown}
 ✧
