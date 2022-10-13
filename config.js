@@ -49,28 +49,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
+global.sig = 'https://instagram.com/' // ig
+global.sgh = 'https://github.com/' // github
+global.sgc = 'https://chat.whatsapp.com/' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
-global.sfb = 'https://www.facebook.com/' // facebook
+global.snh = 'https://www.youtube.com/' // my youtube channel
+global.sfb = 'https://www.facebook.com/mosyafikjr' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '085212649276' //dana
+global.pdana = '0' //dana
 global.povo = '081386943282' //ovo
-global.pgopay = '085212649276' //gopay
-global.plinkaja = '085212649276' //link aja
-global.ppulsa = '085212649276' //telkomsel
-global.ppulsa2 = '085212649276' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.pgopay = '0' //gopay
+global.plinkaja = '0' //link aja
+global.ppulsa = '0' //telkomsel
+global.ppulsa2 = '0' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282124046059'
-global.nomorown = '6281386943282'
-global.namebot = 'ALBOTWhatsapp'
-global.nameown = 'KABUL STORE || READY'
+global.nomorbot = '6282155207160'
+global.nomorown = '628981574999'
+global.namebot = '𝑩𝒐𝒕𝑺𝒉𝒊𝒏 𝒗4'
+global.nameown = MOS'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281386943282', 'KABUL STORE || READY', true],
+  ['628981574999', 'MOS', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ALBOTWhatsapp 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘KABUL˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ AL BOT Whatsapp '
+global.wm = '                「 𝑩𝒐𝒕𝑺𝒉𝒊𝒏 𝒗4 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝑩𝒐𝒕𝑺𝒉𝒊𝒏 𝒗4˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝑩𝒐𝒕𝑺𝒉𝒊𝒏 𝒗4 '
 global.botdate = `⌚: ${wktuwib}\n📆: ${week} ${date}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By AL BOT Whatsapp`
+global.titlebot = `⫹⫺ WhatsApp Bot | By 𝑩𝒐𝒕𝑺𝒉𝒊𝒏 𝒗4`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 ALBOTWhatsapp  あ」'
+global.author = '                「 𝑩𝒐𝒕𝑺𝒉𝒊𝒏 𝒗4  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'KABUL STORE || READY'
-global.stickauth = `By ©KABUL STORE || READY`
+global.stickpack = '𝑩𝒐𝒕𝑺𝒉𝒊𝒏 𝒗4'
+global.stickauth = `By https://facebook.com/mosyafikjr`
 
 global.multiplier = 38 // The higher, The harder levelup
 
